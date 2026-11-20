@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there! 👋 I'm a Computer Science Graduate
 
-<!--
-**ShriLek2507/ShriLek2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an M.Sc. Computer Science graduate interested in exploring technology, building projects, and continuously learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Master's in Computer Science
+- 🐍 Currently exploring Python and its applications
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Learning about Data Analytics and data visualization
+- 💡 Enjoy experimenting with new tools and technologies
+- 🚀 Building projects to turn ideas into practical solutions
+
+### 🛠️ Technologies & Tools
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy
+- **Tools:** VS Code, Git, GitHub
+
+### 📌 Featured Projects
+- **Fake News Detection:** A machine learning project that classifies news articles as real or fake using NLP techniques.
+- **Conversational AI Chatbot:** Exploring LLMs, LangChain, and AI-powered conversational systems.
+
+### 🌱 Currently Learning
+Python | Machine Learning | Data Analytics | Git & GitHub
+
+### 🤝 Let's Connect
+Always open to learning, collaborating, and exploring new opportunities!
+
+Thanks for visiting my profile! ✨
